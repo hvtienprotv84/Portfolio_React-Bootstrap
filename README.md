@@ -3,6 +3,7 @@
 - ReactJS
 - React-Bootstrap 
 - React-Router
+- Responsive
 
 # RUN
 
